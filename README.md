@@ -1,5 +1,7 @@
 # Lucasfregis.dev (resume)
 
+[![HitCount](https://hits.dwyl.com/lucasfregis/lucas-resume.svg)](https://hits.dwyl.com/lucasfregis/lucas-resume)
+
 Esse projeto é o código-fonte do currículo online de Lucas Regis, disponível em https://lucasregis.dev/
 
 ![Preview](https://github.com/lucasfregis/lucas-resume/blob/master/print.png?raw=true)
