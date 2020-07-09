@@ -1,4 +1,4 @@
-# Lucasfregis.dev (resume)
+# Lucasregis.dev (resume)
 
 [![HitCount](https://hits.dwyl.com/lucasfregis/lucas-resume.svg)](https://hits.dwyl.com/lucasfregis/lucas-resume)
 
